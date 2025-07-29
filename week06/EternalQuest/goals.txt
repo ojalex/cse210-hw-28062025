@@ -1,0 +1,3 @@
+Simple|Assignment|100|True
+Simple|Programming|50|True
+Simple|Read|50|True
